@@ -1,0 +1,37 @@
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    
+}
+.about .left h1{
+    color: aqua;
+}
+.about .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 550px;
+}
+.about .left p{
+    margin: 1.2rem 0;
+    text-align: justify;
+}
+.about .right{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 250px;
+}
+.about .right h1{
+    color: aqua;
+}
+.about .right p{
+    margin: 1.2rem 0;
+    text-align: start;
+}
+
