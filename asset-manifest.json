@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-subhiksha/static/css/main.701d30f2.css",
+    "main.js": "/portfolio-subhiksha/static/js/main.7e0f853e.js",
+    "static/media/img1.png": "/portfolio-subhiksha/static/media/img1.e4d577894cb353aa43c0.png",
+    "static/media/proj1.png": "/portfolio-subhiksha/static/media/proj1.e81e09315e2c3ea3d6bd.png",
+    "index.html": "/portfolio-subhiksha/index.html",
+    "main.701d30f2.css.map": "/portfolio-subhiksha/static/css/main.701d30f2.css.map",
+    "main.7e0f853e.js.map": "/portfolio-subhiksha/static/js/main.7e0f853e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.701d30f2.css",
+    "static/js/main.7e0f853e.js"
+  ]
+}
